@@ -19,7 +19,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Perpustakaaan</title>
+    <title>Perpustakaan</title>
 
     <!-- Custom fonts for this template -->
     <link href="template/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -46,7 +46,7 @@
                 <div class="sidebar-brand-icon rotate-n-15">
                 <i class="fa fa-book" aria-hidden="true"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">PERPUSTAKAAN <sup></sup></div>
+                <div class="sidebar-brand-text mx-3">PERPUSTAKAAN   <sup></sup></div>
             </a>
 
             <!-- Divider -->
